@@ -1,0 +1,1 @@
+In this lab I created a repository in Github and cloned it to the terminal. This allowed me to create the 3 files, including this one. This lab helped with creating a repository, making commits, managing branches and and deploying a simple HTML file.
