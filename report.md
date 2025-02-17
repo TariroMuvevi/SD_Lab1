@@ -1,0 +1,1 @@
+In this lab I created a repository and cloned it in VS Code. I then created 3 files; a txt file, html file and this md file.
